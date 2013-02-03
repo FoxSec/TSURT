@@ -8,6 +8,7 @@ Prerequisites
 
 - Apache server containing the files included as template
 - Python 2.7 or newer
+
 ========================================================================================================================
     Just enter the below command to install all required packages:
         <command> "sudo sh install.sh"
